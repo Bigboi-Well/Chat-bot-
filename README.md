@@ -26,6 +26,18 @@ It can answer questions, learn new ones from the user, and has both:
 
 ---
 
+## 📂 Project Structure
+
+chatbot/
+│── chatbot.py          # CLI chatbot
+│── chatbot1.py         # Tkinter GUI chatbot
+│── knowledge_base.json # Stores Q&A
+│── requirements.txt    # Dependencies
+│── images/             # Screenshots
+│── README.md           # Documentation
+
+---
+
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
